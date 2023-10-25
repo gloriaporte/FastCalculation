@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- https://m3.material.io/theme-builder#/custom -->
+    <!-- Dark colors -->
+    <color name="colorPrimaryDark">#5DDCD8</color>
+    <color name="colorOnPrimaryDark">#005754</color>
+    <color name="colorPrimaryContainerDark">#076A6A</color>
+    <color name="colorOnPrimaryContainerDark">#68F6EA</color>
+
+    <color name="colorSecondaryDark">#C1B5D3</color>
+    <color name="colorOnSecondaryDark">#3A246A</color>
+    <color name="colorSecondaryContainerDark">#3A344C</color>
+    <color name="colorOnSecondaryContainerDark">#D9CEE9</color>
+
+    <color name="colorTertiaryDark">#DFA8E1</color>
+    <color name="colorOnTertiaryDark">#390C46</color>
+    <color name="colorTertiaryContainerDark">#51275D</color>
+    <color name="colorOnTertiaryContainerDark">#F5C3FE</color>
+
+    <color name="backgroundColorDark">#191c1b</color>
+    <color name="colorOnBackgroundDark">#E0E3E2</color>
+    <color name="colorSurfaceDark">#191c1b</color>
+    <color name="colorOnSurfaceDark">#E0E3E3</color>
+
+    <color name="colorOutlineDark">#89938e</color>
+    <color name="colorSurfaceVariantDark">#3f4944</color>
+    <color name="colorOnSurfaceVariantDark">#bfc9c3</color>
+
+    <!-- Light colors -->
+    <color name="colorPrimary">#037C7C</color>
+    <color name="colorOnPrimary">#ffffff</color>
+    <color name="colorPrimaryContainer">#5FF1C8</color>
+    <color name="colorOnPrimaryContainer">#001921</color>
+
+    <color name="colorSecondary">#4A3193</color>
+    <color name="colorOnSecondary">#ffffff</color>
+    <color name="colorSecondaryContainer">#BBB1DC</color>
+    <color name="colorOnSecondaryContainer">#200850</color>
+
+    <color name="colorTertiary">#406376</color>
+    <color name="colorOnTertiary">#ffffff</color>
+    <color name="colorTertiaryContainer">#cee9dc</color>
+    <color name="colorOnTertiaryContainer">#cee9dc</color>
+
+    <color name="backgroundColor">#fbfdf9</color>
+    <color name="colorOnBackground">#191c1b</color>
+    <color name="colorSurface">#fbfdf9</color>
+    <color name="colorOnSurface">#191c1b</color>
+
+    <color name="colorOutline">#707974</color>
+    <color name="colorSurfaceVariant">#dbe5df</color>
+    <color name="colorOnSurfaceVariant">#3f4944</color>
+</resources>
